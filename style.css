@@ -1,0 +1,37 @@
+p{
+    color: blue;
+    font-size: 14px;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+}
+#sundarban{
+    color: #f81b1bd5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(153, 209, 165);
+    height: 200px;
+    width: 50%;
+    border: 15px solid yellowgreen;
+    border-radius: 50px;
+    margin: 0 auto;
+}
+.second{
+    color: #f81b1bd5;
+    background-color: rgb(13, 226, 226);
+    height: 200px;
+    width: 50%;
+    margin: 10px 50px;
+    padding: 20px 10px;
+}
+.third{
+    color: #f81b1bd5;
+}
+.third2{
+    background-color: rgb(153, 209, 165);
+    height: 200px;
+    width: 50%;
+    margin: 0 auto;
+}
+.color{
+    color: black;
+}
